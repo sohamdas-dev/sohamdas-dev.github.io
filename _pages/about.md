@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D student in Operations Research at Texas A&M University, advised by [Prof. Ceyhun Eksin.](https://netmas.engr.tamu.edu/people/ceyhun-eksin/) My research interests are situated at the intersection of  game theory and optimization. Topics of interest include intervention design in network games, learning in stochastic games, dynamical processes on graphs with applications in social network analysis, epidemic modelling and safe multi-agent reinforcement learning. 
+Hi! I am a Ph.D student in Operations Research at Texas A&M University, advised by [Prof. Ceyhun Eksin.](https://netmas.engr.tamu.edu/people/ceyhun-eksin/) My interests are situated at the intersection of game theory, optimization and reinforcement learning. Topics of interest include intervention design in network games, decentralized learning in Markov games, dynamical processes on graphs, with applications in social network analysis, epidemic modelling and safe multi-agent reinforcement learning. Please find my [CV here.](https://drive.google.com/file/d/1_HCsmwvltMVZ-OGhEd8D21tD04m3DctX/view?usp=sharing)
 
 [//]: <> Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is [//]: <> already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
