@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Ph.D. Student in Operations Research @ Texas A&M
+subtitle: Ph.D. Student in Operations Research @ Texas A&M \ 
+<a href='#'>Networked Multiagent Systems Lab</a>
 
 profile:
   align: right
