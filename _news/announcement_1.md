@@ -1,4 +1,3 @@
-
 ---
 layout: post
 date: July 2024
