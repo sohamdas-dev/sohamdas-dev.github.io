@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a fifth-year Ph.D. student in the [ISEN](https://engineering.tamu.edu/industrial/index.html) department at Texas A&M University, advised by [Prof. Ceyhun Eksin.](https://netmas.engr.tamu.edu/people/ceyhun-eksin/) My interests are situated at the intersection of game theory, optimization and reinforcement learning. Topics of interest include intervention design in network games, decentralized learning in Markov games, dynamical processes on graphs, with applications in social network analysis, epidemic modelling and safe multi-agent reinforcement learning. 
 
-Please find my [CV here.](https://drive.google.com/file/d/1_HCsmwvltMVZ-OGhEd8D21tD04m3DctX/view?usp=sharing) For an updated list of publications, please see my [Google Scholar.](https://scholar.google.com/citations?user=EeyWLicAAAAJ&hl=en&oi=ao) Here is the link to my [LinkedIn](https://www.linkedin.com/in/soham-das-196075125/) account. I can be reached at firstname[dot]lastname[at]tamu[dot]edu.
+Please find my [CV here.](https://drive.google.com/file/d/1_HCsmwvltMVZ-OGhEd8D21tD04m3DctX/view?usp=sharing) For an updated list of publications, please see my [Google Scholar.](https://scholar.google.com/citations?user=EeyWLicAAAAJ&hl=en&oi=ao) Here is the link to my [LinkedIn](https://www.linkedin.com/in/soham-das-196075125/) account. I can be reached at firstname.lastname[at]tamu[dot]edu.
 
 [//]: <> Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is [//]: <> already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
