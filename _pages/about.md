@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Emerging Technologies Building 3024</p>
-    <p>101 Bizzell Street</p>
+    <p>ETB 3024, 101 Bizzell Street</p>
     <p>College Station, TX 77843</p>
 
 news: true # includes a list of news items
