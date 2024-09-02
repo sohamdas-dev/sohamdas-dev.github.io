@@ -1,8 +1,9 @@
+
 ---
 layout: post
-date: May 2024
+date: July 2024
 inline: true
 related_posts: false
 ---
 
-New acceptance alert: <em> Learning Nash in Constrained Markov Games with an 𝛼-potential </em> accepted to **IEEE Control Systems Letters!**
+New acceptance alert: <em> Average Submodularity of Maximizing Anticoordination in Network Games </em> accepted to **SIAM Journal on Control and Optimization!**
