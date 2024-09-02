@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: May 2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+New acceptance alert: <em> Learning Nash in Constrained Markov Games with an 𝛼-potential </em> accepted to **IEEE Control Systems Letters!**
