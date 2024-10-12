@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Operations Research @ Texas A&M \ <a href='https://netmas.engr.tamu.edu'>Networked Multiagent Systems Lab</a>
+subtitle: Ph.D. Candidate in Operations Research @ Texas A&M \ <a href='https://netmas.engr.tamu.edu'>Networked Multiagent Systems Lab</a>
 
 profile:
   align: right
