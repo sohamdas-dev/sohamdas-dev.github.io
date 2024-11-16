@@ -1,3 +1,4 @@
+---
 layout: post
 date: Oct 22, 2024
 inline: true
