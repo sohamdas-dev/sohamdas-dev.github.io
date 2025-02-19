@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Operations Research @ Texas A&M \ <a href='https://
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: profile picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ETB 3024, 101 Bizzell Street</p>
