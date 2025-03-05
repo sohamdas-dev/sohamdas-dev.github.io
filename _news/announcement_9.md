@@ -1,0 +1,7 @@
+---
+layout: post
+date: Mar 12, 2025
+inline: true
+related_posts: false
+---
+Upcoming Talk on _Safe Learning and Alignment in Multiagent Systems_ at the [Autonomy Seminar](https://oden.utexas.edu/news-and-events/events/2061---Soham%20Das/) in the Oden Institute for Computational Science and Engineering, The University of Texas at Austin.
