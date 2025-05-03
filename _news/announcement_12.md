@@ -1,8 +1,8 @@
 ---
 layout: post
-date: May 1, 2024
+date: May 1, 2025
 inline: true
 related_posts: false
 ---
 
-Presented my poster on [Foundations for Safety in _MARL_](https://drive.google.com/file/d/18-IhNqaGfq9nxIhdxYxlveywRXtWTzff/view?usp=share_link) at the _Texas Colloquium on Distributed Learning_ (TL;DR 2025)!
+Presented my poster on [Foundations for safe-MARL](https://drive.google.com/file/d/18-IhNqaGfq9nxIhdxYxlveywRXtWTzff/view?usp=share_link) at the _Texas Colloquium on Distributed Learning 2025_!
