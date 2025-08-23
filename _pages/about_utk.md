@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Assistant Professor at the University of Tennessee<br>
-  <span style="color:#007bff;">Multiagent Systems and Complexity Group</span>
+  <span style="font-weight: bold;">Assistant Professor at the University of Tennessee</span><br>
+  <span style="color: #007bff;">Multiagent Systems and Complexity group</span>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>520 John D. Tickle Engineering Building,</p>
     <p>817 Neyland Drive,</p>
-    <p>Knoxville, TN 37920</p>
+    <p>Knoxville, TN 37996</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
