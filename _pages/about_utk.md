@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <span style="font-weight: bold;">Assistant Professor at the University of Tennessee</span><br>
+  <span style="font-weight: bold;">Assistant Professor, The University of Tennessee</span><br>
   <span style="color: #007bff;">Multiagent Systems and Complexity group</span>
 
 profile:
