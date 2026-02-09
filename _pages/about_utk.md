@@ -46,7 +46,7 @@ Here is my <a href="https://www.linkedin.com/in/soham-das-196075125/">LinkedIn</
 <p>My research sits at the interface of game theory, optimization, and reinforcement learning, with a focus on multiagent decision making in complex environments. I address challenges in designing safe and efficient learning algorithms for agents operating in dynamic systems, such as energy grids, social or economic systems, where strategic interactions, uncertainity and constraints are prevalent. Research themes include learning and intervention design in network games, safe-learning in Markov games, combinatorial optimization, with applications in network science, epidemics and multiagent reinforcement learning.</p>
 
 <p>You can find my academic <a href="https://drive.google.com/file/d/1_HCsmwvltMVZ-OGhEd8D21tD04m3DctX/view?usp=sharing">CV here</a>. 
-For an updated list of my publications, please see my <a href="https://scholar.google.com/citations?user=EeyWLicAAAAJ&hl=en&oi=ao">Google Scholar profile</a>. 
+For an updated list of my publications, please see my <a href="https://scholar.google.com/citations?hl=en&user=wL23o58AAAAJ&view_op=list_works&authuser=2&gmla=APjjwubglw521591TOtBrr4VJNpQTXOHWw7CBiILCdO8WpGp4Upnw973H0tdhj30cfTpi1KA1zM53j6DXOlib5QaFov3xloxk3y4W4LKUfB6vl3BEh3gWtBEXL0">Google Scholar profile</a>. 
 I am also on <a href="https://www.linkedin.com/in/soham-das-196075125/">LinkedIn</a>, and can be reached at sdas43 [at] utk [dot] edu.</p>
 
 </div>
