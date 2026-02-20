@@ -47,6 +47,6 @@ Here is my <a href="https://www.linkedin.com/in/soham-das-196075125/">LinkedIn</
 
 <p>You can find my academic <a href="https://drive.google.com/file/d/1_HCsmwvltMVZ-OGhEd8D21tD04m3DctX/view?usp=sharing">CV here</a>. 
 For an updated list of my publications, please see my <a href="https://scholar.google.com/citations?hl=en&user=wL23o58AAAAJ&view_op=list_works&authuser=2&gmla=APjjwubglw521591TOtBrr4VJNpQTXOHWw7CBiILCdO8WpGp4Upnw973H0tdhj30cfTpi1KA1zM53j6DXOlib5QaFov3xloxk3y4W4LKUfB6vl3BEh3gWtBEXL0">Google Scholar profile</a>. 
-I am also on <a href="https://www.linkedin.com/in/soham-das-196075125/">LinkedIn</a>, and can be reached at sdas43 [at] utk [dot] edu.</p>
+I am also on <a href="https://www.linkedin.com/in/soham-das-196075125/">LinkedIn</a>, and can be reached at sdas43 [at] tennessee [dot] edu.</p>
 
 </div>
