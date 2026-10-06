@@ -65,6 +65,45 @@ abstract = { Abstract. We consider the control of decentralized learning dynamic
   abstract={We propose the concept of a Lagrangian game to solve constrained Markov games. Such games model scenarios where agents face cost constraints in addition to their individual rewards, that depend on both agent joint actions and the evolving environment state over time. Constrained Markov games form the formal mechanism behind safe multiagent reinforcement learning, providing a structured model for dynamic multiagent interactions in a multitude of settings, such as autonomous teams operating under local energy and time constraints, for example. We develop a primal-dual approach in which agents solve a Lagrangian game associated with the current Lagrange multiplier, simulate cost and reward trajectories over a fixed horizon, and update the multiplier using accrued experience. This update rule generates a new Lagrangian game, initiating the next iteration. Our key result consists in showing that the sequence of solutions to these Lagrangian games yields a nonstationary Nash solution for the original constrained Markov game.}
 }
 
+@article{bailey2026algorithmic,
+  abbr={ArXiv},
+  bibtex_show={true},
+  title={Algorithmic Asymmetry in Zero-Sum Games: Unilateral Recovery of Fast Convergence Against a Slow Opponent},
+  author={Bailey, James P and Das, Soham},
+  journal={arXiv},
+  year={2026},
+  selected = {true},
+  html={https://arxiv.org/abs/2608.09780},
+  abstract={Learning dynamics in zero-sum games are typically analyzed under algorithmic symmetry: both agents use the same update rule, or methods from a common algorithmic family. This is at odds with the nature of zero-sum games; competing agents need not coordinate on algorithm selection. This paper studies algorithmic asymmetry in learning dynamics in zero-sum games. In particular, we ask whether fast convergence can be recovered when one agent is fixed to vanilla gradient descent, whose standard regret-based analysis certifies, at best, O(1/T‾‾√) ergodic convergence. We show that the slow rate is not intrinsic. When one agent uses gradient descent, the opposing agent can use a modified optimistic update, which we call Alternating Optimistic Gradient Descent (AOGD), to make the joint dynamics simulate Alternating Gradient Descent on the even iterates. As a result, the time-average of the asymmetric GD vs.\ AOGD dynamics converges to Nash equilibria at rate O(1/T). Our results show that fast convergence need not require coordinated algorithm selection: one agent can compensate for a slower opponent. More broadly, the paper highlights algorithmic asymmetry as a useful lens for understanding cross-class interactions in multiagent optimization.}
+
+}
+
+@article{tupayachi2026learning,
+  abbr={ArXiv},
+  bibtex_show={true},
+  title={Learning to Harvest Without Collapse in a Regenerative Commons: A Lagrangian Framework},
+  author={Tupayachi, Jose and Li, Xueping and Das, Soham},
+  journal={arXiv},
+  year={2026},
+  selected={false},
+  html={https://arxiv.org/abs/2609.36478},
+  abstract = {The tragedy of the commons poses a multi-agent safety problem: reward-seeking agents can deplete a shared resource, and cooperation among its users does not itself specify how much must be preserved. We make preservation an explicit requirement by formulating a regenerative commons as a constrained Markov game or a constrained multi-agent MDP with a designer-specified depletion budget. We develop a nonstationary Lagrangian framework that constructs a policy sequence from solutions of unconstrained games or cooperative control problems. Extending earlier time-average constructions, we introduce average-epoch solution concepts for reset episodes with discounted rewards and terminal costs. We prove a reward-independent feasibility certificate, cooperative feasibility and approximate optimality against feasible policy mixtures, and an extension to unbiased sampled costs. For self-interested agents, a constrained Nash certificate quantifies the price-dispersion term introduced by deviations that redistribute budget across epochs. Under the stated assumptions on solver accuracy and multiplier updates, these results give constrained policy-sequence guarantees using solutions of unconstrained problems. Experiments with constrained IPPO and MAPPO in a Gordon-Schaefer fishery examine how depletion budgets shape stock retention, harvest rewards, and price adaptation.}
+
+}
+
+@article{payani2026patient,
+  abbr={ArXiv},
+  bibtex_show={true},
+  title={Patient-Centered Treatment Planning for Chronic Multimorbidity: A Hierarchical Reinforcement Learning Framework for Preference Modeling},
+  author={Payani, Nafiseh and Das, Soham and Wilson, G Anthony and Khojandi, Anahita},
+  journal={arXiv},
+  year={2026},
+  selected={false},
+  html={https://arxiv.org/abs/2609.39911},
+  abstract={Patient preference, defined as a patient's demonstrated willingness and capacity to adhere to clinical recommendations, is a primary determinant of therapeutic effect yet remains structurally absent from existing computational treatment planning models. We address this gap by presenting patient-centered factored-action hierarchical option-critic (FAHOC), a hierarchical reinforcement learning (HRL) framework that jointly learns high-level options corresponding to therapeutic strategies and factored intra-option policies that decompose the joint action space into disease- and intervention-specific subcomponents, while imposing a cooperation-aware action masking mechanism. This enables structured exploration, improved credit assignment across hierarchy levels, and more interpretable decision pathways, while enforcing patients' preferences. Formal guarantees establish that cooperative patients achieve higher optimal expected health outcomes than non-cooperative patients, and that the factored Q-function approximation error is provably bounded. The framework is evaluated using longitudinal data collected from approximately 50,000 comorbid hypertension and type 2 diabetes mellitus patients from five hospitals in the Southeast U.S. FAHOC achieves a quality-adjusted life year expectancy equivalent improvement of 0.669 (vs -0.133 observed clinician practice), correctly identifies cooperative patients in 95.9% of cases and never violates a patient's preference in held-out test, demonstrating that HRL with explicit preference constraints can support preference-consistent, clinically safe decision-making in multimorbidity management.}
+
+}
+
 @article{das2025localconstraints,
   abbr={NeurIPS CoML},
   bibtex_show={true},
@@ -107,3 +146,4 @@ abstract = { Abstract. We consider the control of decentralized learning dynamic
   additional_info={. Winner, *Outstanding Student Paper Prize*, IEEE Control Systems Society, TC Networked Systems},
   abstract={We develop a best-response algorithm for solving constrained Markov games assuming limited violations for the potential game property. The limited violations of the potential game property mean that changes in value function due to unilateral policy alterations can be measured by the potential function up to an error α . We show the existence of stationary ϵ -approximate constrained Nash policy whenever the set of feasible stationary policies is non-empty. Our setting has agents accessing an efficient probably approximately correct solver for a constrained Markov decision process which they use for generating best-response policies against the other agents’ former policies. For an accuracy threshold ϵ>4α , the best-response dynamics generate provable convergence to ϵ -Nash policy in finite time with probability at least 1−δ at the expense of polynomial bounds on sample complexity that scales with the reciprocal of ϵ and δ .}
 }
+
